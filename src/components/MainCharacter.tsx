@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
-import { Eye, EyeOff } from 'lucide-react';
+import { Eye, EyeOff, ExternalLink, Image as ImageIcon } from 'lucide-react';
 
 export default function MainCharacter() {
   const [showStateB, setShowStateB] = useState(false);
@@ -27,9 +27,15 @@ export default function MainCharacter() {
             href="https://posty.pe/hmw1jk" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="inline-flex items-center justify-center px-6 py-2.5 bg-indigo-900 text-white rounded-full text-sm font-medium hover:bg-indigo-800 transition-colors shadow-sm"
+            className="inline-flex items-center justify-between px-5 py-3.5 bg-zinc-800 text-zinc-100 rounded-xl text-sm font-medium hover:bg-zinc-700 transition-all shadow-sm border border-zinc-700 hover:shadow-md active:scale-[0.98] w-full max-w-[280px] mx-auto group"
           >
-            이미지 모음
+            <div className="flex items-center gap-3">
+              <div className="bg-zinc-700/50 p-1.5 rounded-lg group-hover:bg-zinc-600/50 transition-colors">
+                <ImageIcon size={18} className="text-zinc-300" />
+              </div>
+              <span>이미지 모음 바로가기</span>
+            </div>
+            <ExternalLink size={16} className="text-zinc-400 group-hover:text-zinc-300 transition-colors" />
           </a>
         </div>
       </section>
