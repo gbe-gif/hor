@@ -22,7 +22,15 @@ export default function MainCharacter() {
         </div>
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-indigo-950 tracking-tight">레온드리시앙 드 펜브룩</h2>
-          <p className="text-amber-600 font-medium mt-1">Léondricien de Penbrook</p>
+          <p className="text-amber-600 font-medium mt-1 mb-4">Léondricien de Penbrook</p>
+          <a 
+            href="https://posty.pe/hmw1jk" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center px-6 py-2.5 bg-indigo-900 text-white rounded-full text-sm font-medium hover:bg-indigo-800 transition-colors shadow-sm"
+          >
+            이미지 모음
+          </a>
         </div>
       </section>
 
@@ -44,7 +52,7 @@ export default function MainCharacter() {
           <p><span className="text-slate-400 font-medium w-20 inline-block">키</span> 191cm</p>
           <p><span className="text-slate-400 font-medium w-20 inline-block">3대 중량</span> 540kg</p>
           <p>짙은 회색 눈과 백금발 장발.</p>
-          <p>날카로운 눈매와 부드러운 입매를 지닌 고급스럽게 생긴 존잘 미남 (수염 없음).</p>
+          <p>날카로운 눈매와 부드러운 입매를 지님.</p>
           <p>백금색 말 귀와 말 꼬리.</p>
         </div>
       </section>
@@ -60,13 +68,31 @@ export default function MainCharacter() {
 
       <section className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
         <h3 className="text-xl font-bold text-indigo-900 mb-4 border-b border-amber-200 pb-2">귀/꼬리 습관</h3>
-        <ul className="space-y-2 text-sm text-slate-700">
-          <li><span className="text-slate-400 font-medium w-20 inline-block">평소</span> 귀가 살짝 앞으로 향함, 꼬리는 느리게 흔들림.</li>
-          <li><span className="text-slate-400 font-medium w-20 inline-block">기분 좋음</span> 귀가 앞으로 쫑긋, 꼬리는 크게 흔들림.</li>
-          <li><span className="text-slate-400 font-medium w-20 inline-block">설렐 때</span> 귀가 까딱거림, 꼬리는 작게 빠르게 흔들림.</li>
-          <li><span className="text-slate-400 font-medium w-20 inline-block">성적 흥분</span> 귀가 뒤로 쫑긋, 꼬리는 굳어 부르르 떨림.</li>
-          <li><span className="text-slate-400 font-medium w-20 inline-block">기분 안좋음</span> 귀가 뒤로 향함, 꼬리가 툭툭 흔들림.</li>
-          <li><span className="text-slate-400 font-medium w-20 inline-block">화남</span> 귀가 뒤로 누움, 꼬리가 채찍마냥 움직임.</li>
+        <ul className="space-y-3 text-sm text-slate-700">
+          <li className="flex">
+            <span className="text-slate-400 font-medium w-20 shrink-0">평소</span>
+            <div>귀가 살짝 앞으로 향함.<br/>꼬리는 느리게 흔들림.</div>
+          </li>
+          <li className="flex">
+            <span className="text-slate-400 font-medium w-20 shrink-0">기분 좋음</span>
+            <div>귀가 앞으로 쫑긋.<br/>꼬리는 크게 흔들림.</div>
+          </li>
+          <li className="flex">
+            <span className="text-slate-400 font-medium w-20 shrink-0">설렐 때</span>
+            <div>귀가 까딱거림.<br/>꼬리는 작게 빠르게 흔들림.</div>
+          </li>
+          <li className="flex">
+            <span className="text-slate-400 font-medium w-20 shrink-0">성적 흥분</span>
+            <div>귀가 뒤로 쫑긋.<br/>꼬리는 굳어 부르르 떨림.</div>
+          </li>
+          <li className="flex">
+            <span className="text-slate-400 font-medium w-20 shrink-0">기분 안좋음</span>
+            <div>귀가 뒤로 향함.<br/>꼬리가 툭툭 흔들림.</div>
+          </li>
+          <li className="flex">
+            <span className="text-slate-400 font-medium w-20 shrink-0">화남</span>
+            <div>귀가 뒤로 누움.<br/>꼬리가 채찍마냥 움직임.</div>
+          </li>
         </ul>
       </section>
 

@@ -34,7 +34,7 @@ export default function SupportingCharacters() {
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 48세 여성</p>
               <p><span className="text-slate-400 font-medium w-16 inline-block">종족</span> 염소 수인</p>
               <p><span className="text-slate-400 font-medium w-16 inline-block">직책</span> 팀 대표</p>
-              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENTJ (에니어그램 381)</p>
+              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENTJ</p>
               <p>팀 브랜딩과 마케팅 중요시함.</p>
             </div>
           </div>
@@ -44,7 +44,7 @@ export default function SupportingCharacters() {
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 37세 인간 남성</p>
               <p><span className="text-slate-400 font-medium w-16 inline-block">직책</span> 레온의 레이스 엔지니어</p>
-              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> INTP (에니어그램 594)</p>
+              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> INTP</p>
               <p>레온의 각종 규정 편법성 요구에 같이 신나게 연구 개발함.</p>
               <p>업계 내 압도적 실력 자랑함.</p>
             </div>
@@ -64,7 +64,7 @@ export default function SupportingCharacters() {
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">관계</span> 아버지</p>
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 64세 사자 수인</p>
-              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> INTJ (에니어그램 531)</p>
+              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> INTJ</p>
               <p>냉철한 전략가이나 가족 사랑하고 가정적임.</p>
               <p>레온 전폭적 지지하면서도 내심 걱정함.</p>
             </div>
@@ -75,7 +75,7 @@ export default function SupportingCharacters() {
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">관계</span> 형 (애칭: 루이)</p>
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 30세 사자 수인</p>
-              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENTP (에니어그램 738)</p>
+              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENTP</p>
               <p>가문 후계자, 웃는 포식자 기질 지님.</p>
               <p>레온의 기행 재밌어함.</p>
             </div>
@@ -86,7 +86,7 @@ export default function SupportingCharacters() {
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">관계</span> 어머니</p>
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 61세 여성 말 수인</p>
-              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENFJ (에니어그램 271)</p>
+              <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENFJ</p>
               <p>육상 금메달리스트 5관왕 출신, 펜브룩 스포츠 재단 이사장으로 육상 선수 양성.</p>
               <p>우아한 전사 같은 성품, 레온의 운동 신경에 자부심 느낌.</p>
             </div>
@@ -106,7 +106,7 @@ export default function SupportingCharacters() {
             <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 26세 프랑스인</p>
             <p><span className="text-slate-400 font-medium w-16 inline-block">종족</span> 늑대 수인 남성</p>
             <p><span className="text-slate-400 font-medium w-16 inline-block">소속</span> 파파야 폭스의 퍼스트 드라이버 (6번)</p>
-            <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENTJ (에니어그램 358)</p>
+            <p><span className="text-slate-400 font-medium w-16 inline-block">MBTI</span> ENTJ</p>
             <p>차가운 포식자 기질, 계산된 하이리스크 전략 구사.</p>
             <p>16살 때부터 레온과 비교되는 라이벌.</p>
           </div>
