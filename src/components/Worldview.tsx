@@ -47,7 +47,7 @@ export default function Worldview() {
         </h2>
         <div className="bg-white rounded-2xl p-5 space-y-3 text-sm leading-relaxed text-slate-700 shadow-sm border border-amber-100/50">
           <p>19세기 말 런던에서 창립된 글로벌 방산 기업, 세계 7위권 이내 규모.</p>
-          <p>현 CEO는 에드리언 드 펜브룩(Adrian K. Penbrook).</p>
+          <p>현 CEO는 레오폴드 K. 펜브룩(Leopold K. Penbrook).</p>
           <p>항공·우주 추진 기술, 첨단 무기 시스템, 군용 차량, 에너지·추진 기술 주력.</p>
           <p>다수 NATO 국가와 군수 계약, 로봇 및 첨단 드론 분야 두각.</p>
           <p className="text-amber-600/80 italic mt-4">
