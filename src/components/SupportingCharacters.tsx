@@ -17,6 +17,9 @@ export default function SupportingCharacters() {
         
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+            <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+              <img src="https://i.postimg.cc/rmPtBRB6/마르코.png" alt="마르코 알바레즈" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            </div>
             <h3 className="text-lg font-bold text-indigo-950 mb-2">마르코 알바레즈</h3>
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 27세 남성</p>
@@ -29,6 +32,9 @@ export default function SupportingCharacters() {
           </div>
 
           <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+            <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+              <img src="https://i.postimg.cc/sXDYdr1W/헬레나.png" alt="헬레나 브래드쇼" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            </div>
             <h3 className="text-lg font-bold text-indigo-950 mb-2">헬레나 브래드쇼</h3>
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 48세 여성</p>
@@ -40,6 +46,9 @@ export default function SupportingCharacters() {
           </div>
 
           <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+            <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+              <img src="https://i.postimg.cc/2SQh16Zn/토마드.png" alt="토마드 리드" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            </div>
             <h3 className="text-lg font-bold text-indigo-950 mb-2">토마드 리드</h3>
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 37세 인간 남성</p>
@@ -71,6 +80,9 @@ export default function SupportingCharacters() {
           </div>
 
           <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+            <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+              <img src="https://i.postimg.cc/7Z305622/루이.png" alt="루이마르셀리앙 드 펜브룩" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            </div>
             <h3 className="text-lg font-bold text-indigo-950 mb-2">루이마르셀리앙 드 펜브룩</h3>
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">관계</span> 형 (애칭: 루이)</p>
@@ -101,6 +113,9 @@ export default function SupportingCharacters() {
         </div>
 
         <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+          <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+            <img src="https://i.postimg.cc/13Gw8tqw/아드리앵.png" alt="아드리앵 드 라로슈" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+          </div>
           <h3 className="text-lg font-bold text-indigo-950 mb-2">아드리앵 드 라로슈</h3>
           <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
             <p><span className="text-slate-400 font-medium w-16 inline-block">나이</span> 26세 프랑스인</p>
