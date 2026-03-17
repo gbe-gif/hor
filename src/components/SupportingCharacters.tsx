@@ -69,6 +69,9 @@ export default function SupportingCharacters() {
 
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+            <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+              <img src="https://i.postimg.cc/t7Q50pDW/abuji.png" alt="레오폴드 K. 펜브룩" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            </div>
             <h3 className="text-lg font-bold text-indigo-950 mb-2">레오폴드 K. 펜브룩</h3>
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">관계</span> 아버지</p>
@@ -94,6 +97,9 @@ export default function SupportingCharacters() {
           </div>
 
           <div className="bg-white rounded-2xl p-5 border border-amber-100 shadow-sm">
+            <div className="w-full aspect-square rounded-xl overflow-hidden mb-4 border border-amber-100/50">
+              <img src="https://i.postimg.cc/7ZpTmmsf/eomma.png" alt="엘로디 드 발몽 펜브룩" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            </div>
             <h3 className="text-lg font-bold text-indigo-950 mb-2">엘로디 드 발몽 펜브룩</h3>
             <div className="space-y-2 text-sm text-slate-700 leading-relaxed">
               <p><span className="text-slate-400 font-medium w-16 inline-block">관계</span> 어머니</p>
